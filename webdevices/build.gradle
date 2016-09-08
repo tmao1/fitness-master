@@ -18,5 +18,4 @@ dependencies {
   compile project(':data')
   compile('org.springframework.boot:spring-boot-starter-amqp')
   compile('org.springframework.boot:spring-boot-starter-web')
-  runtime('mysql:mysql-connector-java')
 }
